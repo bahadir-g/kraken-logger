@@ -17,8 +17,8 @@ import (
 )
 
 const (
-	Namespace  = "github_com/bahadir-g/krakend-gin-logger"
-	moduleName = "krakend-gin-logger"
+	Namespace  = "github_com/bahadir-g/kraken-logger"
+	moduleName = "kraken-logger"
 )
 
 func NewLogger(cfg config.ExtraConfig, logger logging.Logger, loggerConfig gin.LoggerConfig) gin.HandlerFunc {
