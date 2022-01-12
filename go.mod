@@ -1,5 +1,4 @@
-module github.com/bahadir-g/krakend-gin-logger
-replace github.com/ifaisalalam/krakend-gin-logger => github.com/bahadir-g/krakend-gin-logger v1.4.0
+module github.com/bahadir-g/krakend-logger
 
 go 1.15
 
