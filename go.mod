@@ -1,4 +1,4 @@
-module github.com/bahadir-g/krakend-logger
+module github.com/bahadir-g/kraken-logger
 
 go 1.15
 
